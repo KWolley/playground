@@ -5,7 +5,7 @@
     "files.associations": {
         "*.ino": "cpp"
     },
-    "particle.targetDevice": "E-Tracker18",
-    "particle.firmwareVersion": "2.0.0-rc.4",
-    "particle.targetPlatform": "electron"
+    "particle.targetDevice": "Boron6",
+    "particle.firmwareVersion": "2.0.1",
+    "particle.targetPlatform": "boron"
 }
