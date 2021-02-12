@@ -71,6 +71,11 @@ void loop() {
   Serial.printlnf("startDateUnix: %ld, endDateUnix: %ld, epoch: %d",startDateUnix,endDateUnix,epoch);
   Serial.printlnf("number of records to skip: %d, number of records to publish: %d",numRecordsSkip,numRecordsPublish);
   
+
+  // find list one location
+  // set start address to location - number of records to skip
+  // publish data
+  
   delay(60000);
   
   
